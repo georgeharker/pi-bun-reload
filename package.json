@@ -1,6 +1,6 @@
 {
   "name": "@geohar/pi-bun-reload",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Makes pi's /reload load extension code fresh from disk when pi runs under bun.",
   "type": "module",
   "packageManager": "bun@1.3.9",
