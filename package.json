@@ -3,7 +3,9 @@
   "version": "0.2.1",
   "description": "Makes pi's /reload load extension code fresh from disk when pi runs under bun.",
   "type": "module",
-  "packageManager": "bun@1.4.5",
+  "engines": {
+    "bun": ">=1.4.5"
+  },
   "author": "George Harker <george@georgeharker.com>",
   "homepage": "https://github.com/georgeharker/pi-bun-reload#readme",
   "repository": {
